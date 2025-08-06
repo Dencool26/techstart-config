@@ -1,5 +1,1 @@
-# Hello
-
-This is new file
-
-And this is new change in new branch
+New line in the clone repo
