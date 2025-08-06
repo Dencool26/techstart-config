@@ -3,6 +3,5 @@
     "maxRetries": 3, "timeout": 5000, "endpoints":
     {
         "products": "/api/v1/products",
-        "orders": "/api/v2/orders"
     }
 }
