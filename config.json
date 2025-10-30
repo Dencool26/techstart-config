@@ -1,7 +1,7 @@
 {
 "apiUrl": "<https://api.techstart.com>",
-"maxRetries": 3,
-"timeout": 5000
+"maxRetries": 5,
+"timeout": 3000
 }
 {
 "apiUrl": "<https://api.techstart.com>",
